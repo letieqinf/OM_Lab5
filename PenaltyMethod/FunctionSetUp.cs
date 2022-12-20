@@ -30,13 +30,13 @@
         // --------- FUNCTION P(x, R) ----------
         
         private static double P(double x, double y)
-            => F(x, y) + R * H(x, y);
+            => F(x, y) + R * Math.Pow(H(x, y), 2);
 
         private static double PDerivativeX(double x, double y)
-            => FDerivativeX(x, y) + R * Math.Pow(HDerivativeX(x, y), 2);
+            => FDerivativeX(x, y) + 2 * R * H(x, y) * HDerivativeX(x, y);
 
         private static double PDerivativeY(double x, double y)
-            => FDerivativeY(x, y) + R * Math.Pow(HDerivativeY(x, y), 2);
+            => FDerivativeY(x, y) + 2 * R * H(x, y) * HDerivativeY(x, y);
 
         // -------------------------------------
     }
