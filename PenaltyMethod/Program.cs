@@ -7,7 +7,7 @@ namespace PenaltyMethod
     {
         private static void Main(string[] args)
         {
-            var eps = 1e-5;
+            const double eps = 1e-5;
             
             var newPoint = new[] { 0.0, 0.0 };
             while (true)
