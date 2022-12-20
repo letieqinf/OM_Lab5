@@ -1,0 +1,15 @@
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\bin\Debug\net6.0\PenaltyMethod.exe
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\bin\Debug\net6.0\PenaltyMethod.deps.json
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\bin\Debug\net6.0\PenaltyMethod.runtimeconfig.json
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\bin\Debug\net6.0\PenaltyMethod.dll
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\bin\Debug\net6.0\PenaltyMethod.pdb
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.csproj.AssemblyReference.cache
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.AssemblyInfoInputs.cache
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.AssemblyInfo.cs
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.dll
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\refint\PenaltyMethod.dll
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.pdb
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\PenaltyMethod.genruntimeconfig.cache
+C:\Users\Дмитрий Сергеевич\Desktop\МО\Lab 5\PenaltyMethod\obj\Debug\net6.0\ref\PenaltyMethod.dll
